@@ -38,20 +38,21 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
-<!-- Discord Presence + Buttons (Side by Side & Centered Perfectly) -->
-<table align="center" style="border-collapse: collapse; vertical-align: middle;">
-  <tr>
+<!-- Discord Presence + Buttons (Perfectly Aligned & Centered) -->
+<table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
+  <tr style="vertical-align: middle;">
+
     <!-- Discord Presence -->
-    <td align="center" style="padding-right: 25px; vertical-align: middle;">
+    <td style="padding-right: 25px; vertical-align: middle;">
       <img
         src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
         alt="Yankee's Discord Presence"
-        style="display: inline-block; vertical-align: middle;"
+        style="display: inline-block; vertical-align: middle; max-width: 340px; height: auto; border-radius: 8px;"
       />
     </td>
 
     <!-- Buttons -->
-    <td align="center" style="vertical-align: middle; white-space: nowrap;">
+    <td style="vertical-align: middle; white-space: nowrap;">
       <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
         <img
           src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
@@ -68,9 +69,9 @@ Building elegant, futuristic and high-performance experiences with code & design
         />
       </a>
     </td>
+
   </tr>
 </table>
-
 
 
 
