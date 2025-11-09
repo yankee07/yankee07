@@ -45,14 +45,14 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5TGsk8Y/neon-divider-purple.gif" width="250px" alt="divider" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/493380609587150849">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="https://discord.com/users/493380609587150849" target="_blank">
     <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/yankee07">
+  <a href="https://github.com/yankee07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="400px" alt="divider" />
