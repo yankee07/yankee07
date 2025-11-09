@@ -1,4 +1,5 @@
 <!-- ⚡ Yankee's Unified Dark Neon Profile README -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Yankee;Full+Stack+Developer+%7C+Designer;Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
 </h1>
@@ -37,38 +38,41 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
-<!-- Discord Presence + Buttons (Side by Side) -->
-<table align="center">
+<!-- Discord Presence + Buttons (Side by Side & Centered Perfectly) -->
+<table align="center" style="border-collapse: collapse; vertical-align: middle;">
   <tr>
     <!-- Discord Presence -->
-    <td align="center" style="padding-right: 25px;">
-      <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
-    </td>
-
- 
-```html
-<!-- Discord Presence + Buttons (Side by Side & Buttons Inline) -->
-<table align="center">
-  <tr>
-    <!-- Discord Presence -->
-    <td align="center" style="padding-right: 25px;">
-      <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
+    <td align="center" style="padding-right: 25px; vertical-align: middle;">
+      <img
+        src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
+        alt="Yankee's Discord Presence"
+        style="display: inline-block; vertical-align: middle;"
+      />
     </td>
 
     <!-- Buttons -->
-    <td align="center" style="vertical-align: middle;">
-      <a href="https://discord.com/users/493380609587150849" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" />
+    <td align="center" style="vertical-align: middle; white-space: nowrap;">
+      <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
+        <img
+          src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
+          alt="Discord"
+          style="display: inline-block; vertical-align: middle;"
+        />
       </a>
       &nbsp;&nbsp;
-      <a href="https://github.com/yankee07" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" />
+      <a href="https://github.com/yankee07" target="_blank" rel="noopener">
+        <img
+          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"
+          alt="GitHub"
+          style="display: inline-block; vertical-align: middle;"
+        />
       </a>
     </td>
   </tr>
 </table>
-  </tr>
-</table>
+
+
+
 
 <p align="center">
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="400px" alt="divider" />
