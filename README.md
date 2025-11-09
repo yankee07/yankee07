@@ -18,7 +18,7 @@ Building elegant, futuristic and high-performance experiences with code & design
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,github,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,github" />
 </p>
 
 <p align="center">
