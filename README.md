@@ -46,18 +46,17 @@ Building elegant, futuristic and high-performance experiences with code & design
     </td>
 
     <!-- Buttons -->
-    <td align="center">
+    <td align="center" style="vertical-align: middle;">
       <a href="https://discord.com/users/493380609587150849" target="_blank">
         <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
-      <br><br>
+      &nbsp;&nbsp;
       <a href="https://github.com/yankee07" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" />
       </a>
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="400px" alt="divider" />
