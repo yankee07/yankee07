@@ -38,38 +38,29 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
-<!-- Discord Presence + Buttons (Final, Rendered Properly) -->
+
+
 <table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
   <tr style="vertical-align: middle;">
-    <!-- Left: Discord Presence -->
-    <td style="width: 360px; max-width: 360px; padding-right: 20px; vertical-align: middle;">
+    <td style="padding-right: 25px; vertical-align: middle;">
       <img
         src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
         alt="Yankee's Discord Presence"
-        style="display: block; margin: 0 auto; width: 100%; max-width: 360px; height: auto; border-radius: 8px;"
+        style="border-radius: 8px; max-width: 360px;"
       />
     </td>
-
-    <!-- Right: Buttons -->
     <td style="vertical-align: middle; white-space: nowrap; padding-left: 6px;">
       <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
-        <img
-          src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
-          alt="Discord"
-          style="display: inline-block; vertical-align: middle;"
-        />
+        <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
       </a>
-      &nbsp;&nbsp;
+      &nbsp;
       <a href="https://github.com/yankee07" target="_blank" rel="noopener">
-        <img
-          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"
-          alt="GitHub"
-          style="display: inline-block; vertical-align: middle;"
-        />
+        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
