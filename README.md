@@ -39,18 +39,18 @@ Building elegant, futuristic and high-performance experiences with code & design
 </p>
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
 
   <!-- Discord Presence -->
   <img
-    src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
+    src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool..."
     alt="Discord Presence"
     width="380"
-    style="border-radius: 10px;"
+    style="border-radius: 10px; box-shadow: none; border: none;"
   />
 
-  <!-- Buttons (Discord + GitHub) -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
+  <!-- Butonlar -->
+  <div style="display: flex; flex-direction: row; gap: 10px;">
     <a href="https://discord.com/users/493380609587150849" target="_blank">
       <img
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
@@ -66,10 +66,6 @@ Building elegant, futuristic and high-performance experiences with code & design
   </div>
 
 </div>
-
-
-
-
 
 
 
