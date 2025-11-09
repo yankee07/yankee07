@@ -39,37 +39,34 @@ Building elegant, futuristic and high-performance experiences with code & design
 </p>
 
 
-
-
 <div align="center">
 
   <!-- Discord Presence -->
   <img
     src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
-    alt="Yankee's Discord Presence"
-    style="border-radius: 8px; max-width: 360px; display: block; margin-bottom: 10px;"
+    alt="Discord Presence"
+    width="380"
+    style="border-radius: 10px; margin-bottom: 12px;"
   />
 
   <!-- Buttons -->
-  <div style="margin-top: 8px;">
-    <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
+  <p>
+    <a href="https://discord.com/users/493380609587150849" target="_blank">
       <img
-        src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
+        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
         alt="Discord"
-        style="display: inline-block; vertical-align: middle;"
       />
     </a>
-    &nbsp;
-    <a href="https://github.com/yankee07" target="_blank" rel="noopener">
+    <a href="https://github.com/yankee07" target="_blank">
       <img
         src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"
         alt="GitHub"
-        style="display: inline-block; vertical-align: middle;"
       />
     </a>
-  </div>
+  </p>
 
 </div>
+
 
 
 
