@@ -38,7 +38,7 @@ Building elegant, futuristic and high-performance experiences with code & design
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=💭%20Probably%20designing%20something%20cool..." alt="Yankee's Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
 </p>
 
 <p align="center">
