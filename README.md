@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- 👑 Yankee's Premium GitHub Profile README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Yankee;Full+Stack+Developer;Creative+Technologist;Welcome+to+my+world!" alt="Typing SVG" />
+</h1>
 
-<!--
-**yankee07/yankee07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/1M7vX6V.gif" width="300px" alt="Neon Divider"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About Me
+💡 Passionate about building elegant and futuristic digital experiences.  
+🚀 Exploring the edge of code and creativity.  
+⚡ Always experimenting with design, performance, and innovation.  
+
+---
+
+### 🛠️ Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,figma,git,github,docker" />
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yankee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&icon_color=FFD700&text_color=C9C9C9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankee&theme=tokyonight&hide_border=true&background=0D0D1A&ring=9D4EDD&fire=FFD700&currStreakLabel=FFD700" height="165" />
+</p>
+
+---
+
+### 🎧 Discord Presence  
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
+</p>
+
+---
+
+### ⚙️ Custom Style (Neon + Gold Glow)
+<div align="center">
+
+```css
+/* You can use this in your GitHub Pages or personal site for matching style */
+:root {
+  --neon-purple: #9D4EDD;
+  --neon-gold: #FFD700;
+  --bg-dark: #0D0D1A;
+}
+
+body {
+  background: var(--bg-dark);
+  color: #EAEAEA;
+  font-family: 'Orbitron', sans-serif;
+}
+
+a {
+  color: var(--neon-purple);
+  text-shadow: 0 0 5px var(--neon-purple), 0 0 15px var(--neon-gold);
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 0 20px var(--neon-purple);
+}
