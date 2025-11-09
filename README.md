@@ -38,51 +38,25 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
-<!-- Presence + Connect Cards -->
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
-
-  <!-- Discord Presence Card -->
-  <div style="
-    background: #0d0d1a;
-    border-radius: 15px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 0 12px rgba(255, 215, 0, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    max-width: 380px;
-  ">
-    <img 
-      src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool..." 
-      alt="Discord Presence"
-      style="border-radius: 10px; width: 100%;">
-  </div>
-
-  <!-- Connect Card -->
-  <div style="
-    background: #0d0d1a;
-    border-radius: 15px;
-    padding: 25px 20px;
-    width: 220px;
-    text-align: center;
-    box-shadow: 0 0 12px rgba(255, 215, 0, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-  ">
-    <h4 style="color: #FFD700; font-family: 'Orbitron', sans-serif; margin-bottom: 20px;">Connect</h4>
-    <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
-      <img 
-        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
-        alt="Discord"
-        style="margin: 5px 0; width: 100%;">
-    </a>
-    <a href="https://github.com/yankee07" target="_blank" rel="noopener">
-      <img 
-        src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" 
-        alt="GitHub"
-        style="margin: 5px 0; width: 100%;">
-    </a>
-  </div>
-
-</div>
+<!-- Discord Presence + Buttons (Side by Side & Buttons Inline) -->
+<table align="center">
+  <tr>
+    <!-- Discord Presence -->
+    <td align="center" style="padding-right: 25px;">
+      <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
+    </td>
+    <!-- Buttons (inline, same row) -->
+    <td align="center" style="vertical-align: middle;">
+      <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/yankee07" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="400px" alt="divider" />
