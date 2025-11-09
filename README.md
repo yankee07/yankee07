@@ -41,18 +41,17 @@ Building elegant, futuristic and high-performance experiences with code & design
 <!-- Discord Presence + Buttons (Perfectly Aligned & Centered) -->
 <table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
   <tr style="vertical-align: middle;">
-
-    <!-- Discord Presence -->
-    <td style="padding-right: 25px; vertical-align: middle;">
+    <!-- Left column: fixed width for presence card -->
+    <td style="width: 360px; max-width: 360px; padding-right: 18px; vertical-align: middle;">
       <img
         src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
         alt="Yankee's Discord Presence"
-        style="display: inline-block; vertical-align: middle; max-width: 340px; height: auto; border-radius: 8px;"
+        style="display: block; margin: 0 auto; width: 100%; max-width: 360px; height: auto; border-radius: 8px;"
       />
     </td>
 
-    <!-- Buttons -->
-    <td style="vertical-align: middle; white-space: nowrap;">
+    <!-- Right column: badges inline, never wrap -->
+    <td style="vertical-align: middle; white-space: nowrap; padding-left: 6px;">
       <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
         <img
           src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
@@ -69,9 +68,9 @@ Building elegant, futuristic and high-performance experiences with code & design
         />
       </a>
     </td>
-
   </tr>
 </table>
+
 
 
 
