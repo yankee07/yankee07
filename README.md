@@ -37,6 +37,3 @@
 </p>
 
 ---
-
-### ⚙️ Custom Style (Neon + Gold Glow)
-<div align="center">
