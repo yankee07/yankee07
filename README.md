@@ -1,66 +1,59 @@
-<!-- 👑 Yankee's Premium GitHub Profile README -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Yankee;Full+Stack+Developer;Creative+Technologist;Welcome+to+my+world!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/1M7vX6V.gif" width="300px" alt="Neon Divider"/>
-</p>
-
----
-
-### 🧭 About Me
-💡 Passionate about building elegant and futuristic digital experiences.  
-🚀 Exploring the edge of code and creativity.  
-⚡ Always experimenting with design, performance, and innovation.  
-
----
-
-### 🛠️ Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,figma,git,github,docker" />
-</p>
-
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yankee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&icon_color=FFD700&text_color=C9C9C9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankee&theme=tokyonight&hide_border=true&background=0D0D1A&ring=9D4EDD&fire=FFD700&currStreakLabel=FFD700" height="165" />
-</p>
-
----
-
-### 🎧 Discord Presence  
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..." alt="Yankee's Discord Presence" />
-</p>
-
----
-
-### ⚙️ Custom Style (Neon + Gold Glow)
-<div align="center">
-
-```css
-/* You can use this in your GitHub Pages or personal site for matching style */
+/* 💫 Yankee's Dark Neon + Gold Glow Theme */
 :root {
   --neon-purple: #9D4EDD;
   --neon-gold: #FFD700;
   --bg-dark: #0D0D1A;
+  --text-light: #EAEAEA;
 }
 
 body {
   background: var(--bg-dark);
-  color: #EAEAEA;
+  color: var(--text-light);
   font-family: 'Orbitron', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  overflow-x: hidden;
 }
 
+/* 🔮 Neon animated border glow */
+h1, h2, h3 {
+  color: var(--neon-gold);
+  text-shadow: 0 0 10px var(--neon-gold), 0 0 20px var(--neon-purple);
+  animation: glowPulse 2s ease-in-out infinite alternate;
+}
+
+/* ✨ Link styling */
 a {
   color: var(--neon-purple);
+  text-decoration: none;
   text-shadow: 0 0 5px var(--neon-purple), 0 0 15px var(--neon-gold);
+  transition: all 0.3s ease;
 }
 
+a:hover {
+  color: var(--neon-gold);
+  text-shadow: 0 0 15px var(--neon-gold), 0 0 30px var(--neon-purple);
+}
+
+/* 🖼️ Image neon effect */
 img {
-  border-radius: 8px;
-  box-shadow: 0 0 20px var(--neon-purple);
+  border-radius: 10px;
+  box-shadow: 0 0 25px var(--neon-purple), 0 0 45px var(--neon-gold);
+  transition: all 0.4s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 35px var(--neon-gold), 0 0 60px var(--neon-purple);
+}
+
+/* ⚡ Soft glow animation */
+@keyframes glowPulse {
+  from {
+    text-shadow: 0 0 8px var(--neon-gold), 0 0 16px var(--neon-purple);
+  }
+  to {
+    text-shadow: 0 0 20px var(--neon-purple), 0 0 35px var(--neon-gold);
+  }
 }
