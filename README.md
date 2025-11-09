@@ -40,26 +40,36 @@ Building elegant, futuristic and high-performance experiences with code & design
 
 
 
-<table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
-  <tr style="vertical-align: middle;">
-    <td style="padding-right: 25px; vertical-align: middle;">
+
+<table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center; border: none;">
+  <tr style="vertical-align: middle; border: none;">
+    <td style="padding-right: 25px; vertical-align: middle; border: none;">
       <img
         src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=8px&idleMessage=Probably%20coding%20something%20cool..."
         alt="Yankee's Discord Presence"
-        style="border-radius: 8px; max-width: 360px;"
+        style="border-radius: 8px; max-width: 360px; border: none;"
       />
     </td>
-    <td style="vertical-align: middle; white-space: nowrap; padding-left: 6px;">
+    <td style="vertical-align: middle; white-space: nowrap; padding-left: 6px; border: none;">
       <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        <img
+          src="https://img.shields.io/badge/Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white"
+          alt="Discord"
+          style="display: inline-block; vertical-align: middle; border: none;"
+        />
       </a>
       &nbsp;
       <a href="https://github.com/yankee07" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
+        <img
+          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"
+          alt="GitHub"
+          style="display: inline-block; vertical-align: middle; border: none;"
+        />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
