@@ -38,34 +38,33 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
+<!-- Discord Presence + Buttons -->
+<table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
+  <tr style="vertical-align: middle;">
+    <td style="padding: 10px; vertical-align: middle;">
+      <img 
+        src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool..." 
+        alt="Discord Presence" 
+        style="display: block; border: none; outline: none; border-radius: 10px; max-width: 380px;">
+    </td>
+    <td style="padding: 10px; vertical-align: middle; white-space: nowrap;">
+      <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
+        <img 
+          src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+          alt="Discord" 
+          style="vertical-align: middle;">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/yankee07" target="_blank" rel="noopener">
+        <img 
+          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" 
+          alt="GitHub" 
+          style="vertical-align: middle;">
+      </a>
+    </td>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
-
-  <!-- Discord Presence -->
-  <img
-    src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool..."
-    alt="Discord Presence"
-    width="380"
-    style="border-radius: 10px; box-shadow: none; border: none;"
-  />
-
-  <!-- Butonlar -->
-  <div style="display: flex; flex-direction: row; gap: 10px;">
-    <a href="https://discord.com/users/493380609587150849" target="_blank">
-      <img
-        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        alt="Discord"
-      />
-    </a>
-    <a href="https://github.com/yankee07" target="_blank">
-      <img
-        src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700"
-        alt="GitHub"
-      />
-    </a>
-  </div>
-
-</div>
+  </tr>
+</table>
 
 
 
