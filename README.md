@@ -39,15 +39,15 @@ Building elegant, futuristic and high-performance experiences with code & design
 </p>
 
 <!-- Discord Presence + Buttons -->
-<table align="center" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
-  <tr style="vertical-align: middle;">
-    <td style="padding: 10px; vertical-align: middle;">
+<table align="center" style="border: none !important; border-collapse: collapse; margin: 0 auto; text-align: center;">
+  <tr style="vertical-align: middle; border: none !important;">
+    <td style="padding: 10px; vertical-align: middle; border: none !important;">
       <img 
         src="https://lanyard.cnrad.dev/api/493380609587150849?theme=dark&bg=0D0D1A&animated=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool..." 
         alt="Discord Presence" 
         style="display: block; border: none; outline: none; border-radius: 10px; max-width: 380px;">
     </td>
-    <td style="padding: 10px; vertical-align: middle; white-space: nowrap;">
+    <td style="padding: 10px; vertical-align: middle; white-space: nowrap; border: none !important;">
       <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
         <img 
           src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
@@ -65,6 +65,7 @@ Building elegant, futuristic and high-performance experiences with code & design
 
   </tr>
 </table>
+
 
 
 
