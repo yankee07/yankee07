@@ -38,16 +38,16 @@ Building elegant, futuristic and high-performance experiences with code & design
   <img src="https://i.ibb.co/5nCnxwF/neon-gold-divider.gif" width="350px" alt="divider" />
 </p>
 
-<!-- Presence + Links Wrapper -->
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<!-- Presence + Connect Cards -->
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
 
-  <!-- Discord Presence -->
+  <!-- Discord Presence Card -->
   <div style="
     background: #0d0d1a;
     border-radius: 15px;
     padding: 20px;
     text-align: center;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.05);
+    box-shadow: 0 0 12px rgba(255, 215, 0, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.08);
     max-width: 380px;
   ">
@@ -57,28 +57,28 @@ Building elegant, futuristic and high-performance experiences with code & design
       style="border-radius: 10px; width: 100%;">
   </div>
 
-  <!-- Connection Links Card -->
+  <!-- Connect Card -->
   <div style="
     background: #0d0d1a;
     border-radius: 15px;
     padding: 25px 20px;
-    width: 180px;
+    width: 220px;
     text-align: center;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.05);
+    box-shadow: 0 0 12px rgba(255, 215, 0, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.08);
   ">
-    <h4 style="color: #FFD700; font-family: 'Orbitron', sans-serif; margin-bottom: 15px;">Connect</h4>
+    <h4 style="color: #FFD700; font-family: 'Orbitron', sans-serif; margin-bottom: 20px;">Connect</h4>
     <a href="https://discord.com/users/493380609587150849" target="_blank" rel="noopener">
       <img 
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
         alt="Discord"
-        style="margin-bottom: 10px; width: 100%;">
+        style="margin: 5px 0; width: 100%;">
     </a>
     <a href="https://github.com/yankee07" target="_blank" rel="noopener">
       <img 
         src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" 
         alt="GitHub"
-        style="width: 100%;">
+        style="margin: 5px 0; width: 100%;">
     </a>
   </div>
 
@@ -95,4 +95,3 @@ Building elegant, futuristic and high-performance experiences with code & design
 <p align="center">
   <img src="https://i.ibb.co/tL5WpsF/neon-pulse-divider.gif" width="450px" alt="Neon Divider"/>
 </p>
-
